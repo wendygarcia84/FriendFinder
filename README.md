@@ -4,6 +4,7 @@ Compatibility-based "FriendFinder" application. This full-stack site takes in re
 
 To run this app, open the following link:
 
+https://aqueous-journey-85291.herokuapp.com/
 
 It will direct you to the home page of the Friend Finder app which contains only a Jumbotron with the title, a button to take the survey, and a link showing json data of the user's so far, which will be the friends to match.
 
@@ -18,3 +19,4 @@ Once the user has selected their answers, they will click the "Submit" button th
 Once the app has found the current user's most compatible friend, it displays the resulting person's image and name as a modal pop-up and saves the user's profile to the list and make it available to be matched with other users.
 
 ![best-match](/screenshots/best-match.PNG)
+
